@@ -1,2 +1,2 @@
 # hola-mundo
-Repositorio tutorial de GITHUP
+<?php echo"hola mundo";?>
